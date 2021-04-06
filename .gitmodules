@@ -1,0 +1,9 @@
+[submodule "lib"]
+	path = lib
+	url = ../lib.git
+[submodule "lib-android"]
+	path = lib-android
+	url = ../lib-android.git
+[submodule "lib-desktop"]
+	path = lib-desktop
+	url = ../lib-desktop.git

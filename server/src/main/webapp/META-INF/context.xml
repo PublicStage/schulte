@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <Resource name="jdbc/brain" auth="Container" description="DB Connection"
+        driverClassName="com.mysql.cj.jdbc.Driver" maxIdle="30" maxTotal="100" maxWaitMillis="10000"
+        password="KHn3iHmBVSBDnc78CZ8b" type="javax.sql.DataSource"
+        url="jdbc:mysql://localhost/brain?useUnicode=true&amp;serverTimezone=Europe/Kiev"
+        username="clicker" />
+</Context>
